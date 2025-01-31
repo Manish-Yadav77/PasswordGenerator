@@ -2,6 +2,9 @@
 
 <p align="center"><img src="https://socialify.git.ci/manish-yadav77/PasswordGenerator/image?font=Source+Code+Pro&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
+<p id="description">A user-friendly React application designed to generate strong, customizable passwords by allowing users to select desired password length and character types (uppercase letters, lowercase letters, numbers, symbols), providing an easy way to create secure passwords tailored to their specific needs.</p>
+
+
 <h2>🚀 Demo</h2>
 
 [https://passwordssgenerators.netlify.app/](https://passwordssgenerators.netlify.app/)
