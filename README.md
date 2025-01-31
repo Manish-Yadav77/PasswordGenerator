@@ -53,10 +53,9 @@ npm run dev
 
 Technologies used in the project:
 
-*   Vite + React
-*   node
+*   React.js
+*   JavaScript(ES6+)
 *   Tailwind css
-*   js (javaScript)
 
 <h2>💖Like my work?</h2>
 
